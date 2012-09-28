@@ -1,0 +1,11 @@
+<form title="Test Form">
+    <borderlayout />
+    <button layoutconstraint="north" text="North" />
+    <button layoutconstraint="east" text="East" />
+    <button layoutconstraint="west" text="West" />
+    <button layoutconstraint="center" text="Center" />
+    <button layoutconstraint="south" text="South" />
+    <menu>
+        <command text="Back" type="back" />
+    </menu>
+</form>

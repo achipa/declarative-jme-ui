@@ -1,0 +1,7 @@
+<form title="Layouts">
+    <boxlayout axis="y" />
+    <link href="file://borderlayout.xml" text="Border Layout Example" />
+    <menu>
+        <command text="Back" type="back" />
+    </menu>
+</form>

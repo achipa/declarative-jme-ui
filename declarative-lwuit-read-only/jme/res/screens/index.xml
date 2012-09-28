@@ -1,0 +1,7 @@
+<form title="Declarative LWUIT" layout="boxlayout" boxlayout.axis="y">
+    <boxlayout axis="y" />
+    <link href="file://layouts.xml" text="Layouts Example" />
+    <menu>
+        <command text="Exit" type="exit" />
+    </menu>
+</form>
